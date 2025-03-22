@@ -92,13 +92,13 @@ Scalability: Optimized database queries for faster response time.
 
 Submission Checklist
 
-✅ Codebase with LLM integration, analytics, and API.
+Codebase with LLM integration, analytics, and API.
 
-✅ Sample test queries and expected answers.
+Sample test queries and expected answers.
 
-✅ Short report on implementation choices and challenges.
+Short report on implementation choices and challenges.
 
-✅ Packaged solution with setup instructions in README.
+Packaged solution with setup instructions in README.
 
 Contributing
 
