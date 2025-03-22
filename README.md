@@ -1,11 +1,11 @@
 # Hotel-Booking-Query-System
-#**https://colab.research.google.com/drive/1n_kZBeLsHSjiPs888tiC6ffT3wJrTRke#scrollTo=CzxPGw72Geu-**
+# **https://colab.research.google.com/drive/1n_kZBeLsHSjiPs888tiC6ffT3wJrTRke#scrollTo=CzxPGw72Geu-**
 
-Overview
+# Overview
 
 This project is a Hotel Booking Query System that provides analytics reports and allows users to ask questions about hotel booking data. It integrates LLM-based responses with precomputed analytics and a vector database for efficient retrieval.
 
-Features
+# Features
 
 LLM Integration: Uses OpenRouter API (LLaMA 3) for answering queries.
 
@@ -17,14 +17,14 @@ Interactive Web UI: Built with Gradio for an intuitive user experience.
 
 Chat History: Stores and displays past interactions.
 
-Installation
+# Installation
 
 Clone the Repository:
 
 git clone https://github.com/your-repo/hotel-booking-query.git
 cd hotel-booking-query
 
-Install Dependencies:
+# Install Dependencies:
 
 pip install -r requirements.txt
 
@@ -35,7 +35,7 @@ Run the Application:
 
 python app.py
 
-Usage
+# Usage
 
 Enter a question related to hotel bookings in the input box.
 
@@ -83,7 +83,7 @@ Integrated OpenRouter API for handling unknown queries.
 
 Developed an interactive UI with Gradio.
 
-Challenges & Solutions
+# Challenges & Solutions
 
 Data Cleaning: Handled missing values and date inconsistencies.
 
@@ -91,7 +91,7 @@ Query Handling: Distinguished between predefined analytics and LLM-based answers
 
 Scalability: Optimized database queries for faster response time.
 
-Submission Checklist
+# Submission Checklist
 
 Codebase with LLM integration, analytics, and API.
 
@@ -101,7 +101,7 @@ Short report on implementation choices and challenges.
 
 Packaged solution with setup instructions in README.
 
-Contributing
+# Contributing
 
 Feel free to submit pull requests for improvements!
 
