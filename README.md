@@ -1,5 +1,6 @@
 # Hotel-Booking-Query-System
 #**https://colab.research.google.com/drive/1n_kZBeLsHSjiPs888tiC6ffT3wJrTRke#scrollTo=CzxPGw72Geu-**
+
 Overview
 
 This project is a Hotel Booking Query System that provides analytics reports and allows users to ask questions about hotel booking data. It integrates LLM-based responses with precomputed analytics and a vector database for efficient retrieval.
